@@ -1,6 +1,7 @@
 ## Preview
 ![alt text](https://github.com/khetkoong/counter-react-js/blob/main/public/preview.png?raw=true)
 
+[DEMO HERE](https://khetkoong-react-counter.netlify.app/)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
